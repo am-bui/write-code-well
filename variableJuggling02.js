@@ -1,5 +1,3 @@
-// [evaluation 01]
-
 // Take a look at the following lines of code:
 //
 // var x = [1, 2, 3];
